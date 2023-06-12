@@ -1,0 +1,22 @@
+{
+  "name": "expo-select-dropdonwn-modal-autocomplete",
+  "version": "1.0.0",
+  "description": "Is a package like select dropdown but on a modal where you should pass an array or array of objects as a prop and returns a selectd item or object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "expo-select-dropdown-modal-autocomplete"
+  ],
+  "author": "Manish Nepal",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manish-nepal/expoSelectModal.git"
+  },
+  "bugs": {
+    "url": "https://github.com/manish-nepal/expoSelectModal/issues"
+  },
+  "homepage": "https://github.com/manish-nepal/expoSelectModal#readme"
+}
