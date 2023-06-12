@@ -1,6 +1,10 @@
 # React native expo select dropdown modal with autocomplete search filter
 
 
+**Feature**
+Using this package, you can display an array of object on select dropdown on modal screen and select a specific object and render its display name.
+
+
 **Props**
 
 ***title*** - Default title is **Select Item**, Pass a title to display initially, such as   'Select company', 'Select user', etc, than after you select an item, selected item's display name will be displayed.
