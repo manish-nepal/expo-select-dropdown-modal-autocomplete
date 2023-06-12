@@ -7,16 +7,21 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "expo-select-dropdown-modal-autocomplete"
+    "mobile select dropdown modal search autocomplete"
   ],
   "author": "Manish Nepal",
   "license": "ISC",
+  "peerDependencies": {
+    "expo": "~48.0.18",
+    "react": "18.2.0",
+    "react-native": "0.71.8"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/manish-nepal/expoSelectModal.git"
+    "url": "git+https://github.com/manish-nepal/expo-select-dropdown-modal-autocomplete"
   },
   "bugs": {
-    "url": "https://github.com/manish-nepal/expoSelectModal/issues"
+    "url": "https://github.com/manish-nepal/expo-select-dropdown-modal-autocomplete/issues"
   },
-  "homepage": "https://github.com/manish-nepal/expoSelectModal#readme"
+  "homepage": "https://github.com/manish-nepal/expo-select-dropdown-modal-autocomplete#readme"
 }

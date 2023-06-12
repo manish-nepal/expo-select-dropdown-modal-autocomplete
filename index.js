@@ -3,7 +3,12 @@ import { FlatList, Modal, Pressable, StyleSheet, Text, TextInput, TouchableOpaci
 import { Octicons } from "@expo/vector-icons";
 
 
-const SelectDropdownModal = ({ title = 'Select Item', data, onSelect, displayName }) => {
+const SelectDropdownModal = ({ 
+    title = 'Select Item', 
+    data, 
+    onSelect, 
+    displayName 
+}) => {
 
     const [filterInput, setFilterInput] = useState("");
     const [componentEntity, setComponentEntity] = useState();
