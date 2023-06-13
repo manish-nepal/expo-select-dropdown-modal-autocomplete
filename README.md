@@ -20,7 +20,7 @@ Using this package, you can display an array of object on select dropdown on mod
 
 ### Usage
 
-```react
+```react native
 
 import { StatusBar } from 'expo-status-bar';
 import { useState } from 'react';
