@@ -47,7 +47,7 @@ export default function App() {
         data={companyUsers}
         displayName={'name'}
         onSelect={setSelectedUser}
-        title='Select brand'
+        title='Select user'
       />
 
       {!!selectedUser && <Text style={{textAlign: 'center', padding: 12, fontSize: 32}}>{selectedUser.name}</Text>}
