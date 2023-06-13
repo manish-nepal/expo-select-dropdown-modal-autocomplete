@@ -1,5 +1,5 @@
 {
-  "name": "expo-select-dropdonwn-modal-autocomplete",
+  "name": "expo-select-dropdown-modal-autocomplete",
   "version": "1.1.2",
   "description": "Is a package like select dropdown but on a modal where you should pass an array or array of objects as a prop and returns a selectd item or object.",
   "main": "index.js",
